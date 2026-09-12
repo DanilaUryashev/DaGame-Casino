@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f5f01a93851c86459a0c5627e081af0, type: 3}
+  m_Name: Cube 1
+  m_EditorClassIdentifier: Assembly-CSharp::TreasureData
+  itemName: "\u0423\u0415\u0411\u0418\u0429\u0415"
+  icon: {fileID: 21300000, guid: 6a241a263daec2c4dbfce83040c25dc9, type: 3}
+  BigItem: 0
+  description: "\u0425\u0443\u0435\u0441\u043E\u0441"
+  worldPrefab: {fileID: 2483732223989154391, guid: 17b46e328d7a33a4299308144e37f2de, type: 3}
+  useSound: {fileID: 0}
+  guid: 0fbc32ab-c466-4f49-8929-f7ad7cf83701
+  sellPrice: 1424
+  treasureType: 
